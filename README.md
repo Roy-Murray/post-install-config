@@ -41,7 +41,7 @@ This tutorial will showcase  the post-install configuration of the open-source h
  ![image](https://github.com/user-attachments/assets/baad07fa-d034-489a-b6e0-43bf4bc59f96)
  
 
- <h2>3. ConfigureTeams</h2>
+ <h2>4. ConfigureTeams</h2>
 
  - Go to admin panel then Agents and lastly Teams
  - add a new team called Online Banking then create Team
