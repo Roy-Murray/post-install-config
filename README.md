@@ -20,5 +20,8 @@ This tutorial will showcase  the post-install configuration of the open-source h
  - The Agent panel is utilized by agents in order to work on Tickets
  - The Admin Panel is used to manage configurations, system settings and permissions
 
- <h2>Configure roles</h2>
+ <h2>2. Configure roles</h2>
+
+ - Go to Admin Panel then Agents and lastly Roles
+ - 
 
