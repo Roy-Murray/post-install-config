@@ -23,5 +23,21 @@ This tutorial will showcase  the post-install configuration of the open-source h
  <h2>2. Configure roles</h2>
 
  - Go to Admin Panel then Agents and lastly Roles
- - 
+ - Add Supreme Admin as a role
+ - Give All permissions, tasks, and check Premade in Knowledgebase tab
+ - add role
+
+![image](https://github.com/user-attachments/assets/032ea14c-d2c3-4462-9a83-b29fd71c11b9)
+
+![image](https://github.com/user-attachments/assets/0f9cdc1f-5b52-465e-ae88-d47726363ecc)
+
+
+ <h2>3. Configure Departments</h2>
+
+- Go to Admin panel then departments
+- add a new department called SysAdmins
+- - create Department
+
+ ![image](https://github.com/user-attachments/assets/baad07fa-d034-489a-b6e0-43bf4bc59f96)
+ 
 
