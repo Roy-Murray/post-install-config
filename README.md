@@ -17,4 +17,8 @@ This tutorial will showcase  the post-install configuration of the open-source h
 <h1>Post-Install Configuration Steps</h1>
 
 <h2>1. Acknowledge Agent Panel vs Admin Panel</h2>
+ - The Agent panel is utilized by agents in order to work on Tickets
+ - The Admin Panel is used to manage configurations, system settings and permissions
+
+ <h2>Configure roles</h2>
 
