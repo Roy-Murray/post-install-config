@@ -57,4 +57,13 @@ This tutorial will showcase  the post-install configuration of the open-source h
 
  <h2>6. Configure Agents</h2>
 
-- go to admin panel then agents and add 
+- go to admin panel then agents and add new
+- add Jane to Dept: SysAdmins
+- add John to Dept: Support
+
+![image](https://github.com/user-attachments/assets/4b2be242-75b8-4037-99d3-3ad6dd5edf8b)
+
+![image](https://github.com/user-attachments/assets/15c099ac-91a9-49ef-a8be-534eda8754e3)
+
+
+
