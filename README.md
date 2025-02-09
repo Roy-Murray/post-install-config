@@ -41,9 +41,20 @@ This tutorial will showcase  the post-install configuration of the open-source h
  ![image](https://github.com/user-attachments/assets/baad07fa-d034-489a-b6e0-43bf4bc59f96)
  
 
- <h2>4. ConfigureTeams</h2>
+ <h2>4. Configure Teams</h2>
 
  - Go to admin panel then Agents and lastly Teams
  - add a new team called Online Banking then create Team
 
  ![image](https://github.com/user-attachments/assets/3ac14801-3e6b-4b73-93cf-da2f12c60135)
+
+ <h2>5. Allow anyone to create tickets</h2>
+
+ - Navigate to admin panel
+ - go to settings then users
+
+ ![image](https://github.com/user-attachments/assets/31ae2ee6-35dc-49fe-a9ac-57766b30e6a5)
+
+ <h2>6. Configure Agents</h2>
+
+- go to admin panel then agents and add 
