@@ -86,4 +86,33 @@ This tutorial will showcase  the post-install configuration of the open-source h
 
   ![image](https://github.com/user-attachments/assets/906af9b8-754e-4f95-a2e2-346e17734611)
 
+  ![image](https://github.com/user-attachments/assets/2191bf8a-5a51-4fc7-be7d-d6ec46b71ce9)
+
+  ![image](https://github.com/user-attachments/assets/357a6a3d-09b1-4c1f-941b-a3f7da8f247b)
+
+
+ <h2>9. Configure Help Topics</h2>
+ Go to Admin Panel -> Manage -> Help Topics
+- add the following help topics
+ 
+ - Business Critical Outage
+ - Personal Computer Issues
+ - Equipment Request
+ - Password Reset
+ - Other
+
+![image](https://github.com/user-attachments/assets/412750c6-08ae-4403-befe-7e5f7421b7b7)
+
+![image](https://github.com/user-attachments/assets/aed5d4bc-228f-4977-9b34-0ec767d28b2a)
+
+![image](https://github.com/user-attachments/assets/f7e2cf6a-efd5-4184-af08-43c292929216)
+
+![image](https://github.com/user-attachments/assets/baa37d4c-0478-4c46-9ca8-31a8fe4736fb)
+
+![image](https://github.com/user-attachments/assets/2f1fadcb-06cb-4579-9588-5981abd99086)
+
+
+<h2>Conclusion</h2>
+
+The post-Installation configuration is completed which had allowed the osTicket to be suited to our needs. We can now use OsTicket manage issues and tickets.
 
