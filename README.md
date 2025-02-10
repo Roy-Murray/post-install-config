@@ -65,5 +65,24 @@ This tutorial will showcase  the post-install configuration of the open-source h
 
 ![image](https://github.com/user-attachments/assets/15c099ac-91a9-49ef-a8be-534eda8754e3)
 
+ <h2>7. Configure Users</h2>
+
+ - Go to admin panel, users then add new
+ - add Karen and Ken
+
+![image](https://github.com/user-attachments/assets/e143129d-c217-4a0b-b09a-b7fcb7ae22ca)
+
+
+![image](https://github.com/user-attachments/assets/c297c4ae-08f2-4ad2-9fa7-99cdf6c32549)
+
+ 
+ <h2>8. Configure SLA</h2>
+- Go to admin panel, Manage then SLA
+- Add these SLAs:
+- - Sev-A Grace period = 1 hour, Schedule 24/7
+-  - Sev-B Grace period = 4 Hours, Schedule 24/7
+-  - Sev-C Grace period = 8 hours, Business hours
+
+  ![image](https://github.com/user-attachments/assets/906af9b8-754e-4f95-a2e2-346e17734611)
 
 
