@@ -79,9 +79,9 @@ This tutorial will showcase  the post-install configuration of the open-source h
  <h2>8. Configure SLA</h2>
 - Go to admin panel, Manage then SLA
 - Add these SLAs:
-- - Sev-A Grace period = 1 hour, Schedule 24/7
--  - Sev-B Grace period = 4 Hours, Schedule 24/7
--  - Sev-C Grace period = 8 hours, Business hours
+-- Sev-A Grace period = 1 hour, Schedule 24/7
+-- Sev-B Grace period = 4 Hours, Schedule 24/7
+-- Sev-C Grace period = 8 hours, Business hours
 
   ![image](https://github.com/user-attachments/assets/906af9b8-754e-4f95-a2e2-346e17734611)
 
